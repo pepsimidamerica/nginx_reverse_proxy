@@ -1,5 +1,5 @@
 # Let's Encrypt with nginx
-This repository is the result of folling the guide: https://linuxhandbook.com/nginx-reverse-proxy-docker/
+This repository is the result of following the guide: https://linuxhandbook.com/nginx-reverse-proxy-docker/
 
 # Create Bridge Network
 Create the bridge network that will be used for communication between the ngix reverse proxy and the proxied containers.
