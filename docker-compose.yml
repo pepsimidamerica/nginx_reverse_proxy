@@ -41,5 +41,5 @@ volumes:
   dhparam:
 
 networks:
-  net:
+  nginx:
     external: true
